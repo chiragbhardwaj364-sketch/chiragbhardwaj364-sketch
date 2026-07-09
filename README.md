@@ -7,7 +7,9 @@
 <br>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=chiragbhardwaj364-sketch&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> -->
-<img src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="380" alt="Coding GIF"/>
+<div align="center">
+  <img src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250" alt="Coding GIF"/>
+</div>
 
 
 
