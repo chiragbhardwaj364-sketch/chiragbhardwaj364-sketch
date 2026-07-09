@@ -5,7 +5,7 @@
 
 ### AI/ML Enthusiast • MERN Developer • Data Science Learner • DSA Practitioner
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+AI%2FML+Projects;Learning+Data+Science+and+MERN+Stack;Solving+DSA+Problems;Turning+Ideas+Into+Real+Projects;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+AI%2FML+Projects;Learning+Data+Science;Mastering+MERN+Stack;Solving+DSA+Problems" alt="Typing SVG"/>
 
 <br>
 
