@@ -5,7 +5,7 @@
 
 ### AI/ML Enthusiast • MERN Developer • Data Science Learner • DSA Practitioner
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+AI%2FML+Projects;Learning+Data+Science;Mastering+DSA;Creating+Full-Stack+Apps" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+AI%2FML+Projects;Learning+Data+Science+and+MERN+Stack;Solving+DSA+Problems;Turning+Ideas+Into+Real+Projects;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Typing SVG"/>
 
 <br>
 
@@ -141,11 +141,11 @@ Collection of solved DSA problems from LeetCode and other coding platforms.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chiragbhardwaj364-sketch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbhardwaj364-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbhardwaj364-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=chiragbhardwaj364-sketch&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=chiragbhardwaj364-sketch&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak"/>
 </p>
 
 <details>
@@ -188,6 +188,18 @@ Collection of solved DSA problems from LeetCode and other coding platforms.
 - [ ] Contribute to open source
 - [ ] Improve problem-solving skills
 - [ ] Land a Software Engineering internship
+
+<br>
+
+## 🦖 No Internet? No Problem!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" alt="Chrome Dino Game"/>
+</p>
+
+<div align="center">
+<b>Still coding • Still learning • Still building</b>
+</div>
 
 <br>
 
